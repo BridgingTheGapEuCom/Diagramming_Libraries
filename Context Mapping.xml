@@ -1,0 +1,93 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"ellipse;whiteSpace=wrap;html=1;fillColor=#D1D5DB;strokeColor=#1A1A1A;\" value=\"System A\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Bounded Context"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#374151;strokeColor=#1A1A1A;fontColor=#E6E6E6;\" value=\"ACL\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Anti-corruption Layer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#374151;strokeColor=#1A1A1A;fontColor=#E6E6E6;\" value=\"OHS\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Open-host Service"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#374151;strokeColor=#1A1A1A;fontColor=#E6E6E6;\" value=\"CF\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Conformist"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#6B7280;strokeColor=#1A1A1A;fontColor=#FFFFFF;\" value=\"PL\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Published Language"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#6B7280;strokeColor=#1A1A1A;fontColor=#FFFFFF;\" value=\"sCPL\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "single use Conforming Published Language"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#6B7280;strokeColor=#1A1A1A;fontColor=#FFFFFF;\" value=\"rCPL\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "reusable Conforming Published Language"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#1A1A1A;dashed=1;dashPattern=8 8;\" value=\"&amp;lt;div&amp;gt;Generic&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;Interchange&amp;amp;nbsp;&amp;lt;div&amp;gt;Context&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120.00000000000001,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Interchange Context"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"&amp;lt;font face=&amp;quot;Atkinson Hyperlegible&amp;quot; data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible&amp;quot;&amp;gt;U&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 20,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "upstream"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"&amp;lt;font face=&amp;quot;Atkinson Hyperlegible&amp;quot; data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible&amp;quot;&amp;gt;D&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 20,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "downstream"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;mxPoint y=\"30\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" y=\"30\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Partnership\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"60\" x=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 31,
+    "aspect": "fixed",
+    "title": "partnership"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"4\" style=\"endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;mxPoint x=\"110\" y=\"160\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" y=\"20\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" edge=\"1\" parent=\"1\" style=\"endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;\" target=\"4\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;mxPoint y=\"20\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" y=\"20\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#374151;strokeColor=#1A1A1A;fontColor=#E6E6E6;\" value=\"SW\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"30\" x=\"45\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "separate ways"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"endArrow=none;html=1;rounded=1;curved=0;\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "link"
+  }
+]</mxlibrary>
